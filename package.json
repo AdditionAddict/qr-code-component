@@ -4,9 +4,10 @@
   "description": "A fontend mentor challenge",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=./",
     "preview": "vite preview",
     "prettier": "pnpm exec prettier . --write",
+    "gh-pages": "git subtree push --prefix dist origin gh-pages",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
