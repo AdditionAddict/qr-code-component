@@ -1,0 +1,6 @@
+# Ignore artifacts:
+/design
+/dist
+/images
+/node_modules
+pnpm-lock.yaml
