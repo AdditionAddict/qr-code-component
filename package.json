@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-component-main",
+  "version": "0.0.0",
+  "description": "A fontend mentor challenge",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Allen",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
